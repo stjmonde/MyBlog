@@ -1,0 +1,320 @@
+﻿常用快捷键
+快捷键 作用
+Ctrl+Shift+Spacebar 创建不间断空格
+Ctrl+ -(连字符) 创建不间断连字符
+Ctrl+B 使字符变为粗体
+Ctrl+I 使字符变为斜体
+Ctrl+U 为字符添加下划线
+Ctrl+Shift+ 缩小字号
+Ctrl+Shift+> 增大字号
+Ctrl+Q 删除段落格式
+Ctrl+Spacebar 删除字符格式
+Ctrl+C 复制所选文本或对象
+Ctrl+X 剪切所选文本或对象
+Ctrl+V 粘贴文本或对象
+Ctrl+Z 撤消上一操作
+Ctrl+Y 重复上一操作
+快捷键大全
+1.用于设置字符格式和段落格式的快捷键
+快捷键 作用
+Ctrl+Shift+F 改变字体
+Ctrl+Shift+P 改变字号
+Ctrl+Shift+> 增大字号
+Ctrl+Shift+< 减小字号
+Ctrl+] 逐磅增大字号
+Ctrl+[ 逐磅减小字号
+Ctrl+D 改变字符格式（"格式"菜单中的"字体"命令）
+Shift+F3 切换字母大小写
+Ctrl+Shift+A 将所选字母设为大写
+Ctrl+B 应用加粗格式
+Ctrl+U 应用下划线格式
+Ctrl+Shift+W 只给字、词加下划线，不给空格加下划线
+Ctrl+Shift+H 应用隐藏文字格式
+Ctrl+I 应用倾斜格式
+Ctrl+Shift+K 将字母变为小型大写字母
+Ctrl+=（等号） 应用下标格式（自动间距）
+Ctrl+Shift++（加号） 应用上标格式（自动间距）
+Ctrl+Shift+Z 取消人工设置的字符格式
+Ctrl+Shift+Q 将所选部分设为Symbol字体
+Ctrl+Shift+*（星号） 显示非打印字符
+Shift+F1（单击） 需查看文字格式了解其格式的文字
+Ctrl+Shift+C 复制格式
+Ctrl+Shift+V 粘贴格式
+Ctrl+1 单倍行距
+Ctrl+2 双倍行距
+Ctrl+5 1.5 倍行距
+Ctrl+0 在段前添加一行间距
+Ctrl+E 段落居中
+Ctrl+J 两端对齐
+Ctrl+L 左对齐
+Ctrl+R 右对齐
+Ctrl+Shift+D 分散对齐
+Ctrl+M 左侧段落缩进
+Ctrl+Shift+M 取消左侧段落缩进
+Ctrl+T 创建悬挂缩进
+Ctrl+Shift+T 减小悬挂缩进量
+Ctrl+Q 取消段落格式
+Ctrl+Shift+S 应用样式
+Alt+Ctrl+K 启动"自动套用格式"
+Ctrl+Shift+N 应用"正文"样式
+Alt+Ctrl+1 应用"标题1"样式
+Alt+Ctrl+2 应用"标题2"样式
+Alt+Ctrl+3 应用"标题3"样式
+Ctrl+Shift+L 应用"列表"样式
+2.用于编辑和移动文字及图形的快捷键
+◆删除文字和图形
+快捷键 作用
+Backspace 删除左侧的一个字符
+Ctrl+Backspace 删除左侧的一个单词
+Delete 删除右侧的一个字符
+Ctrl+Delete 删除右侧的一个单词
+Ctrl+X 将所选文字剪切到"剪贴板"
+Ctrl+Z 撤消上一步操作
+Ctrl+F3 剪切至"图文场"
+◆复制和移动文字及图形
+快捷键 作用
+Ctrl+C 复制文字或图形
+F2（然后移动插入 移动选取的文字或图形点并按Enter键）
+Alt+F3 创建"自动图文集"词条
+Ctrl+V 粘贴"剪贴板"的内容
+Ctrl+Shift+F3 粘贴"图文场"的内容
+Alt+Shift+R 复制文档中上一节所使用的页眉或页脚
+◆插入特殊字符
+快捷键 插入
+Ctrl+F9 域
+Shift+Enter 换行符
+Ctrl+Enter 分页符
+Ctrl+Shift+Enter 列分隔符
+Ctrl+ - 可选连字符
+Ctrl+Shift+ - 不间断连字符
+Ctrl+Shift+空格 不间断空格
+Alt+Ctrl+C 版权符号
+Alt+Ctrl+R 注册商标符号
+Alt+Ctrl+T 商标符号
+Alt+Ctrl+.（句点） 省略号
+◆选定文字和图形
+选定文本的方法是：按住 Shift 键并按能够移动插入点的键。
+快捷键 将选定范围扩展至
+Shift+→ 右侧的一个字符
+Shift+← 左侧的一个字符
+Ctrl+Shift+→ 单词结尾
+Ctrl+Shift+← 单词开始
+Shift+End 行尾
+Shift+Home 行首
+Shift+↓ 下一行
+Shift+↑ 上一行
+Ctrl+Shift+↓ 段尾
+Ctrl+Shift+↑ 段首
+Shift+Page Down 下一屏
+Shift+Page Up 上一屏
+Ctrl+Shift+Home 文档开始处
+Ctrl+Shift+End 文档结尾处
+Alt+Ctrl+Shift+Page Down 窗口结尾
+Ctrl+A 包含整篇文档
+Ctrl+Shift+F8+↑或↓ 纵向文本块(按 Esc 键取消选定模式)
+F8+箭头键 文档中的某个具体位置(按Esc键取消选定模式)
+◆选定表格中的文字和图形
+快捷键 作用
+Tab键 选定下一单元格的内容
+Shift+Tab 选定上一单元格的内容
+A按住Shift键并重复 按某箭头键将所选内容扩展到相邻单元格
+Ctrl+Shift+F8然后按箭头键 扩展所选内容（或块）
+Shift+F8 缩小所选内容
+Alt+数字键盘上的5 选定整张表格
+（Num Lock键需处于关闭状 ȫ态）
+◆移动插入点
+◆移动插入点
+快捷键 作用
+← 左移一个字符
+→ 右移一个字符
+Ctrl+← 左移一个单词
+Ctrl+→ 右移一个单词
+Ctrl+↑ 上移一段
+Ctrl+↓ 下移一段
+Shift+Tab 左移一个单元格（在表格中）
+Tab 右移一个单元格（在表格中）
+↑ 上移一行
+↓ 下移一行
+End 移至行尾
+Home 移至行首
+Alt+Ctrl+Page Up 移至窗口顶端
+Alt+Ctrl+Page Down 移至窗口结尾
+Page Up 上移一屏（滚动）
+Page Down 下移一屏（滚动）
+Ctrl+Page Down 移至下页顶端
+Ctrl+Page Up 移至上页顶端
+Ctrl+End 移至文档结尾
+Ctrl+Home 移至文档开头
+Shift+F5 移至前一处修订；对于刚打开的文档，移至上一次关闭文档时
+插入点所在位置
+◆在表格中移动
+快捷键 光标移至
+Tab 一行中的下一个单元格
+Shift+Tab 一行中的上一个单元格
+Alt+Home 一行中的第一个单元格
+Alt+End 一行中的最后一个单元格
+Alt+Page Up 一列中的第一个单元格
+Alt+Page Down 一列中的最后一个单元格
+↑ 上一行
+↓ 下一行
+◆在表格中插入段落和制表符
+快捷键 在单元格中插入
+Enter 新段落
+Ctrl+Tab 制表符
+3.用于处理文档的快捷键
+◆创建、查看和保存文档
+快捷键 作用
+Ctrl+N 创建与当前或最近使用过的文档类型相同的新文档
+Ctrl+O 打开文档
+Ctrl+W 关闭文档
+Alt+Ctrl+S 拆分文档窗口
+Alt+Shift+C 撤消拆分文档窗口
+Ctrl+S 保存文档
+◆查找、替换和浏览文本
+Ctrl+F 查找文字、格式和特殊项
+Alt+Ctrl+Y 在关闭"查找和替换"窗口之后重复查找
+Ctrl+H 替换文字、特殊格式和特殊项
+Ctrl+G 定位至页、书签、脚注、表格、注释、图形或其它位置
+Alt+Ctrl+Z 返回至页、书签、脚注、表格、批注、图形或其他位置
+Alt+Ctrl+Home 浏览文档
+◆撤消和恢复操作
+Esc 取消操作
+Ctrl+Z 撤消操作
+Ctrl+Y 恢复或重复操作
+◆切换至其他视图
+Alt+Ctrl+P 切换到页面视图
+Alt+Ctrl+O 切换到大纲视图
+Alt+Ctrl+N 切换到普通视图
+Ctrl+\\ 在主控文档和子文档之间移动
+◆用于审阅文档的快捷键
+快捷键 作用
+Alt+Ctrl+M 插入批注
+Ctrl+Shift+E 打开或关闭标记修订功能
+Home 定位至批注开始
+End 定位至批注结尾
+Ctrl+Home 定位至一组批注的起始处
+Ctrl+End 定位至一组批注的结尾处
+4.用于处理引用、脚注和尾注的快捷键
+快捷键 作用
+Alt+Shift+O 标记目录项
+Alt+Shift+I 标记引文目录项
+Alt+Shift+X 标记索引项
+Alt+Ctrl+F 插入脚注
+Alt+Ctrl+E 插入尾注
+5.用于处理域的快捷键
+快捷键 作用
+Alt+Shift+D 插入Date域
+Alt+Ctrl+L 插入Listnum域
+Alt+Shift+P 插入Page域
+Alt+Shift+T 插入Time域
+Ctrl+F9 插入空域
+Ctrl+Shift+F7 更新Word源文档中的链接信息
+F9 更新所选域
+Ctrl+Shift+F9 解除域的链接
+Shift+F9 在域代码和其结果之间进行切换
+Alt+F9 在所有的域代码及其结果间进行切换
+Alt+Shift+F9 从显示域结果的域中运行Gotobutton 或 Macrobutton
+F11 定位至下一域
+Shift+F11 定位至前一域
+Ctrl+F11 锁定域
+Ctrl+Shift+F11 解除对域的锁定
+6.用于处理文档大纲的快捷键
+Alt+Shift+← 提升段落级别
+Alt+Shift+→ 降低段落级别
+Ctrl+Shift+N 降级为正文
+Alt+Shift+↑ 上移所选段落
+Alt+Shift+↓ 下移所选段落
+Alt+Shift+ + 扩展标题下的文本
+Alt+Shift+ - 折叠标题下的文本
+Alt+Shift+A 扩展或折叠所有文本或标题
+数字键盘上的斜杠（/） 隐藏或显示字符格式
+Alt+Shift+L 只显示首行正文或显示全部正文
+Alt+Shift+1 显示所有具有"标题1"样式的标题
+Alt+Shift+n 显示从"标题1"到"标题n"的
+（指标题级别） 所有标题
+7.用于进行邮件合并的快捷键
+要使用这些按键组合，需要先建立邮件合并的主文档。
+快捷键 作用
+Alt+Shift+K 预览邮件合并
+Alt+Shift+N 合并文档
+Alt+Shift+M 打印已合并的文档
+Alt+Shift+E 编辑邮件合并数据文档
+Alt+Shift+F 插入合并域
+8.用于处理 Web 页的快捷键
+快捷键 作用
+Ctrl+K 插入超级链接
+Alt+← 返回一页
+Alt+→ 前进一页
+F9 刷新
+9.用于打印和预览文档的按键
+Ctrl+P 打印文档
+Alt+Ctrl+I 切换至或退出打印预览箭头键在放大的预览页上移动
+Page Up或Page Down 在缩小显示比例时逐页翻阅预览页
+Ctrl+Home 在缩小显示比例时移至第一张预览页
+Ctrl+End 在缩小显示比例时移至最后一张预览页
+10.用于Office助手的快捷键
+如果要完成下面大多数操作，Office 助手必须打开并且可见。
+快捷键 作用
+F1 获得Office助手（助手处于显示状态）的帮助
+Alt+F6 激活Office助手气球
+Alt+数字键 从助手显示的列表中选择帮助主题（Alt+1代表第一个主题以此类推）
+Alt+↓ 查看更多的帮助主题
+Alt+↑ 查看前面的帮助主题
+Esc 关闭助手消息或提示
+11.用于帮助的快捷键
+◆在帮助窗口中工作
+快捷键 作用
+Alt+O 显示"选项"菜单以访问帮助工具栏上的命令
+Alt+空格键 显示程序"控制"菜单
+Alt+F4 关闭活动的帮助窗口
+◆在定位窗格中移动
+快捷键 作用
+Ctrl+Tab 切换到下一选项卡
+Ctrl+Shift+Tab 切换到前一选项卡
+Alt+C 切换到"目录"选项卡
+Alt+I 切换到"索引"选项卡
+Enter 打开或关闭所选书籍，或打开所选帮助主题
+↓ 选择下一书籍或帮助主题
+↑ 选择前一书籍或帮助主题
+◆在主题窗格中移动
+快捷键 作用
+Alt+← 返回查看过的帮助主题
+Alt+→ 前往查看过的帮助主题
+Tab 转到第一个或下一超级链接
+Shift+Tab 转到最后或前一超级链接
+Enter 激活所选超级链接
+Esc 关闭弹出的窗口
+↑ 向帮助主题的开始处滚动
+↓ 向帮助主题的结尾处滚动
+Page Up 以更大的增量向帮助主题的开始处滚动
+Page Down 以更大的增量向帮助主题的结尾处滚动
+Home 移动到帮助主题的开始
+End 移动到帮助主题的结尾
+Ctrl+P 打印当前帮助主题
+Ctrl+A 选定整个帮助主题
+Ctrl+C 将选定内容复制到"剪贴板"
+12.用于菜单的快捷键
+快捷键 作用
+Shift+F10 显示
+F10 激活菜单栏
+Alt+Spacebar 显示程序标题栏上的程序图标菜单
+↓/↑（如菜单 选择菜单或子菜单中的下一个
+或子菜单已显示） 或前一个命令
+←/→ 选择左边或者右边的菜单，或者在显示子菜单时，在主菜单和
+子菜单之间切换
+Home或End 选择菜单或子菜单中第一个或者最后一个命令
+Alt 同时关闭显示的菜单和子菜单
+Esc 关闭显示的菜单。若显示子菜单时，只关闭子菜单
+Alt+Ctrl+ = 将工具栏按钮添至菜单。当键入此快捷键然后单击工具栏按钮
+时，Microsoft Word会将按钮添至适当的菜单。例如，单击"格
+式"工具栏上的"项目符号"按钮可以将"项目符号"命令添至"格式"菜单。
+Alt+Ctrl+ -从菜单中删除命令。当键入此快捷键（数字键盘上然后选择菜单命令时，该命令将被删的减号键）除。如果改变了主意，可以按Esc取消此快捷命令，要恢复已修改了的菜单可以通过在"工具/自 定义"重新设置菜单。
+Alt+Ctrl++为菜单命令自定义快捷键。当您键（数字小键盘入此快捷键并选择了菜单命令时，将上的加号键）会出现"自定义键盘"对话框，你可以在其中添加更改或删除快捷键。
+13.用于窗口和对话框的快捷键
+◆在文档和程序窗口中移动
+快捷键 作用
+Alt+Tab 切换至下一个程序或Microsoft Word文档窗口
+Alt+Shift+Tab 切换至上一个程序或Microsoft Word文档窗口
+Ctrl+Esc 显示Microsoft Windows"开始"菜单
+Ctrl+W 关闭活动文档窗口
+Ctrl+F5 将已最
